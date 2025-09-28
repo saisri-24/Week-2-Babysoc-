@@ -88,6 +88,19 @@ Functional modelling is like the **blueprint stage** of SoC design—it confirms
 
 ---
 
+## How This Fits into My Learning Journey
+
+Working with **Icarus Verilog** and **GTKWave** has been an important milestone in my SoC design journey:
+
+- Gained **hands-on practice** with digital design simulation.
+- Strengthened my ability to **write and debug testbenches**.
+- Learned how to **visualize digital signals as waveforms**.
+- Built a strong foundation for progressing toward **RTL design, synthesis, and physical design**.
+
+The BabySoC project gave me the opportunity to **connect theory with practice**, making SoC concepts more concrete and approachable.
+
+---
+
 ## Conclusion  
 The **BabySoC project** shows how open-source hardware can be both **educational and practical**. With a lightweight RISC-V CPU, a PLL for precise clocking, and a 10-bit DAC for analog interfacing, BabySoC is an excellent platform for learning the fundamentals of SoC design.  
 
